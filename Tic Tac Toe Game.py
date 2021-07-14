@@ -1,5 +1,5 @@
 from random import randint
-from IPython.display import clear_output
+#from IPython.display import clear_output
 
 board = ['#',' ',' ',' ',' ',' ',' ',' ',' ',' ']
 
